@@ -267,5 +267,5 @@ loopB_labels
   
 ==================================================  
 https://github.com/innocentroad/XTimer/  
-https://twitter.com/innocentroad  
-https://irdqx.blogspot.com/2024/02/ai.html  
+https://twitter.com/innocentroad   
+https://irdqx.blogspot.com/2026/03/ai.html
